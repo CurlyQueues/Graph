@@ -11,6 +11,7 @@
 
 void Graph::addEdge(char s, char u)
 {
+//heyo this is just a comment to show that i can change the file and upload to github
     int cnt = 0;
     if (!vertexExists(s))
         vertices.push_back(s);
